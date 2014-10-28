@@ -261,7 +261,7 @@ than 0, then we leave the fragment color as is. Figures 0,1 and 2 show our
 finished globe with rim lighting.
 
 For more information on rim lighting, 
-read http://www.fundza.com/rman_shaders/surface/fake_rim/fake_rim1.html.
+read http://www.fundza.com/rman_shaders/surface/rim_effects/index.html.
 
 -------------------------------------------------------------------------------
 GH-PAGES
